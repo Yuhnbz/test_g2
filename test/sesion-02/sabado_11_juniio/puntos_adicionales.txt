@@ -1,0 +1,8 @@
+Librerias para el uso adecuado de escritura a nuestro codigo
+clases abstractas
+
+
+Decoradores
+git: github, bitbacket
+
+
